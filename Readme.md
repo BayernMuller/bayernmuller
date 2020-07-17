@@ -1,15 +1,7 @@
-🔥 **Language**
-* C/C++ 
-* C#
-* Python
-
-🚀 **Skill Set**
-* WinApi
-* C++ MFC
-* C++ Qt, PyQt5
-* OpenCV
-* Raspberry pi
-* Arduino
-* AVR
-* Flask
-* Linux
+## BayernMuller ⚽
+----
+|🔥 **Language**|🚀 **Skill Set**||||||
+|:---|:---|:---|:---|:---|:---|:---|
+|**C**|Win32Api|AVR|RPI|Linux
+|**C++**|OpenCV|MFC|RPI|Qt|Arduino|
+|**Python**|OpenCV|PyQt5|Flask|
