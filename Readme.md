@@ -1,6 +1,6 @@
 ## BayernMuller ⚽
 ----
-|🔥 **Language**|🚀 **Skill Set**||||||
+|🔥 **Language**|🚀 **Skill Set**|||||
 |:---|:---|:---|:---|:---|:---|:---|
 |**C**|Win32Api|AVR|RPI|Linux
 |**C++**|OpenCV|MFC|RPI|Qt|Arduino|
