@@ -1,8 +1,12 @@
-**Language 🛠**
+### **BayernMuller**
+◾ Embedded Software developer
+
+-----
+
+**Language 🔥**
 
     C/C++   C#  Python
 **Skills 🛹**
     
-    
-    WinApi    MFC       Linux     Qt         PyQt5         OpenCV
-    Flask	ModernC++    AVR    Arduino    Raspberry Pi	
+    Win32Api     MFC       Linux      Qt          PyQt5        OpenCV
+     Flask    Modern C++    AVR     Arduino    RaspberryPi	
