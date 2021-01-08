@@ -1,9 +1,10 @@
-| 🔥 **Languages**||||
-|:---|:---|:---|:---|
-|C|C++|C#|Python||
+### **southern UGRS 🔥**
+---
+**Language 🛠**
 
-
-|🚀 **Skill Set**||||||||
-|:---|:---|:---|:---|:---|:---|:---|:---|
-|WinApi|MFC|Linux|Qt|PyQt5|OpenCV|Flask|Modern C++|
-|Atmega128|Arduino|Raspberry Pi||||||
+    C/C++   C#  Python
+**Skills 🛹**
+    
+    
+    WinApi    MFC       Linux     Qt         PyQt5         OpenCV
+    Flask	ModernC++    AVR    Arduino    Raspberry Pi	
