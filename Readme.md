@@ -1,5 +1,3 @@
-### **southern UGRS 🔥**
----
 **Language 🛠**
 
     C/C++   C#  Python
