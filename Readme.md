@@ -1,7 +1,16 @@
-**Language 🔥**
+<center>
 
-    C   C++   Python
-**Skills 🛹**
-    
-    Win32Api     MFC       Linux      Qt          PyQt5        OpenCV
-     Flask    Modern C++    AVR     Arduino    RaspberryPi	
+# BayernMuller ⚽
+</center>
+
+**🟥 Language**
+<center>
+
+    C/C++   Python
+</center>
+
+**🟦 Skill Stacks**
+<center>
+
+    Win32Api  MFC  Linux  Qt  OpenCV  Flask  AVR  Arduino  RaspberryPi	
+</center>
