@@ -1,16 +1,11 @@
-<center>
+# ⚽ BayernMuller 
 
-# BayernMuller ⚽
-</center>
 
-**🟥 Language**
-<center>
+**Language**
 
     C/C++   Python
-</center>
 
-**🟦 Skill Stacks**
-<center>
+
+**Skill Stacks**
 
     Win32Api  MFC  Linux  Qt  OpenCV  Flask  AVR  Arduino  RaspberryPi	
-</center>
