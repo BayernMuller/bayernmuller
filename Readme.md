@@ -1,6 +1,6 @@
 ### 📳 Embedded Software Developer
 
-　　and Underground Rockstar
+　　 and Underground Rockstar
     
 ---
 **💯 Language**
