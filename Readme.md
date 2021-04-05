@@ -1,6 +1,5 @@
-<h1 align="center">
-    Hi there 👋
-</h1>
-<p align="center">
-  <img src="muller.gif"/>
-</p>
+<h3 align="center">
+  🥇 Embedded Software Developer
+</h3>
+
+----
