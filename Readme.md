@@ -1,5 +1,3 @@
-<h3 align="center">
-  🥇 Embedded Software Developer
-</h3>
-
-----
+<p align="center">
+  <img src="muller.gif"/>
+</p>
