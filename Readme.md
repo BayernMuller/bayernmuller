@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <a href="https://music.apple.com/profile/BayernMuller"><b>@BayernMuller</b></a>
+  <a href="https://bayernmuller.streamlit.app"><b>@BayernMuller</b></a>
 </p>
