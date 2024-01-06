@@ -9,9 +9,7 @@
   <br>
   LinkedIn <a href="https://www.linkedin.com/in/jayden-yang-30790b299">@jaydenyang</a>
   <br>
-  <br>
   medium <a href="https://medium.com/@bayernmuller">@bayernmuller</a>
-  <br>
   <br>
   apple music <a href="https://music.apple.com/profile/BayernMuller">@bayernmuller</a>
 </p>
