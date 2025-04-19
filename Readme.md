@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="joshua.gif"/>
+  <img src="muller.gif"/>
 </p>
